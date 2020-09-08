@@ -6,10 +6,9 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
-p {
-    color: red;
-}
+a.btn.btn-atomic-tangerine.btn-clean.btn-rd.btn-lg.cta-hero {
+    background-color: red;
+} 
 
 a,
 button {
