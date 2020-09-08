@@ -7,7 +7,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 .btn-atomic-tangerine {
-    background-color: red;
+    background-color: red !important;
 } 
 
 a,
