@@ -1049,3 +1049,8 @@ a {
 .row.voffset-lg.med-width-whitespace p {
     font-size: 14px !important;
 }
+
+.mg-md.text-center.tc-white p {
+    font-size: 25px !important;
+    color: red !important;
+}
