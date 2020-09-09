@@ -1050,8 +1050,7 @@ a {
     font-size: 14px !important;
 }
 
-.row.tight-width-whitespace.black-background p {
-    font-size: 25px !important;
-    color: red !important;
+.row.tight-width-whitespace.black-background.mg-md.text-center.tc-white p {
+    font-size: 15px !important;
 }
     
