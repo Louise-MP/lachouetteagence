@@ -1050,7 +1050,8 @@ a {
     font-size: 14px !important;
 }
 
-.bloc .tc-white.bgc-atomic-tangerine.bg-presentation.d-bloc.bloc-bg-texture.texture-paper.b-parallax.mg-md.text-center.tc-white p {
+.row.tight-width-whitespace.black-background p {
     font-size: 25px !important;
     color: red !important;
 }
+    
