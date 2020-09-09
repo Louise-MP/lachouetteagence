@@ -1047,5 +1047,5 @@ a {
 }
 
 p .text-center {
-    font-size: 14px;
+    font-size: 14px !important;
 }
