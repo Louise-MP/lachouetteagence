@@ -1046,6 +1046,6 @@ a {
     text-decoration: underline;
 }
 
-.row .voffset-lg .med-width-whitespace p {
+.row.voffset-lg.med-width-whitespace {
     font-size: 14px !important;
 }
