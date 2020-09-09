@@ -407,7 +407,7 @@ a:hover {
     background: none!important;
     display: block;
     padding: 14px 15px;
-    color: red;
+
 }
 
 nav .caret {
@@ -653,6 +653,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+    
 }
 
 .container {
