@@ -754,7 +754,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(165, 147, 99, 0.8);
     padding: 40px 40px 40px 40px;
 }
 
@@ -1044,4 +1044,8 @@ h4 {
 
 a {
     text-decoration: underline;
-} 
+}
+
+p .text-center {
+    font-size: 14px;
+}
