@@ -6,9 +6,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-.btn-atomic-tangerine {
-    background-color: red !important;
-} 
 
 a,
 button {
@@ -410,6 +407,7 @@ a:hover {
     background: none!important;
     display: block;
     padding: 14px 15px;
+    color: red;
 }
 
 nav .caret {
