@@ -1043,6 +1043,5 @@ h4 {
 }
 
 a {
-    color: red !important;
-    text-decoration: underline !important;
+    text-decoration: underline;
 } 
