@@ -1050,7 +1050,7 @@ a {
     font-size: 14px !important;
 }
 
-.mg-md.text-center.tc-white p {
+.bloc .tc-white.bgc-atomic-tangerine.bg-presentation.d-bloc.bloc-bg-texture.texture-paper.b-parallax.mg-md.text-center.tc-white p {
     font-size: 25px !important;
     color: red !important;
 }
