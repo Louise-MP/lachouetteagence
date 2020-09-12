@@ -776,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #000;
 }
 
 .btn-atomic-tangerine {
@@ -1072,3 +1072,4 @@ a {
 .cta-hero {
     text-decoration: none;
 }
+
