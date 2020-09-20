@@ -724,7 +724,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #c27956!important;
 }
 
 h4 {
@@ -1073,3 +1073,6 @@ a {
     text-decoration: none;
 }
 
+#bloc-3-what-i-do, p {
+    color: #cccccc !important;
+}
