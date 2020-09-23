@@ -723,12 +723,21 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-h1 {
-    color: #000!important;
+#bloc-6 h1 {
+    color: #333333 !important;
 }
 
-h4 {
-    color: #000!important;
+#bloc-6 p {
+    color: #333333 !important;
+    font-size: 13px;
+}
+
+.page-container h1 {
+    color: #c27956 !important;
+}
+
+#bloc-6 h4 {
+    color: #c27956!important;
 }
 
 .icons {
