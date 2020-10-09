@@ -1075,6 +1075,11 @@ a {
 
 #cta-hero {
     text-decoration: none;
+    width: 100%;
+}
+
+#bloc-5-cta a {
+    width: 90%;
 }
 
 .cta-hero {
