@@ -1,0 +1,5 @@
+User-Agent: * 
+Disallow: /intranet/ 
+Disallow: /login.php 
+Allow: /*.css?* 
+Sitemap: http://www.adressedevotresite.com/sitemap_index.xml 
